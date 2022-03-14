@@ -3,12 +3,13 @@ title: Hello World
 tags:
   - 博客
 categories:
-- [Diary, PlayStation]
-- [Diary, Games]
-- [Life]
-- [工具]
-- [博客]
-
+- [B学习笔记,B02java,B022springboot]
+- [B学习笔记,B02java,B021PHP是最好的语言]
+- [D个人随笔,D01影评]
+- [D个人随笔,D02书评]
+- [D个人随笔,D04随笔]
+- [D个人随笔,D03日记]
+- [C软件教程,C01Windows]
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -46,4 +47,4 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+<audio id="audio" controls="" preload="none"><source id="mp3" src="/music/1.mp3"></audio>
